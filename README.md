@@ -7,5 +7,6 @@ A maneira que o módulo funciona para capturar os pacotes é utilizando a ferram
 1 - Arquivo PCAP existente; <br>
 2 - Análise do tráfego de rede em tempo real. <br>
 
-Créditos ao iPAS pela ferramenta desenvolvida utilizando TCPDump e CICFlowMeter.<br>
+Créditos ao usuário iPAS pela ferramenta desenvolvida utilizando TCPDump e CICFlowMeter, e também ao usuário ahlashkari por disponibilizar a ferramenta CICFlowMeter.<br>
 Link do repositório do trabalho do iPAS: https://github.com/iPAS/TCPDUMP_and_CICFlowMeter
+Link do repositório da ferramenta CICFlowMeter: https://github.com/ahlashkari/CICFlowMeter
